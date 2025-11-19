@@ -10,16 +10,14 @@
 
 
 ## 部分截图
+- **聊天界面**
+![1](https://gcore.jsdelivr.net/gh/ALIT8569/tuc-mywl@main/20251119192302923251119192303.png)
 
-[![](https://github.wsmywlkj.top/gh/ALIT8569/tuc-mywl@main/20251119190435651251119190435.png)](https://github.wsmywlkj.top/gh/ALIT8569/tuc-mywl@main/20251119190435651251119190435.png)
+- **搜索历史记录**
+![2](https://gcore.jsdelivr.net/gh/ALIT8569/tuc-mywl@main/20251119192402131251119192402.png)
 
-------------
-
-[![](https://github.wsmywlkj.top/gh/ALIT8569/tuc-mywl@main/20251119190542393251119190542.png)](https://github.wsmywlkj.top/gh/ALIT8569/tuc-mywl@main/20251119190542393251119190542.png)
-
-------------
-
-[![](https://github.wsmywlkj.top/gh/ALIT8569/tuc-mywl@main/20251119190608845251119190609.png)](https://github.wsmywlkj.top/gh/ALIT8569/tuc-mywl@main/20251119190608845251119190609.png)
+- **后台管理**
+![3](https://gcore.jsdelivr.net/gh/ALIT8569/tuc-mywl@main/20251119192439501251119192439.png)
 
 
 ## 此为我做的一个基础功能相对完整的产品，如有任何问题请发起issues
